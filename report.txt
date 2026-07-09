@@ -1,0 +1,6 @@
+--- Customer Total Spend Report ---
+Selam: 580.00 ETB
+Kalkidan: 380.49 ETB
+Abebe: 335.25 ETB
+Mekdes: 315.75 ETB
+Yonas: 67.50 ETB
